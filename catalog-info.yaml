@@ -13,7 +13,7 @@ metadata:
     argocd/app-selector: rhtap/gitops=c-sharp-azure-gh
     backstage.io/kubernetes-id: c-sharp-azure-gh 
     backstage.io/techdocs-ref: dir:.
-    dev.azure.com/project-repo: lucarval-rhtap/c-sharp-azure-gh
+    #dev.azure.com/project-repo: lucarval-rhtap/c-sharp-azure-gh
     dev.azure.com/project: shared-public
     dev.azure.com/build-definition: lucarval-rhtap.c-sharp-azure-gh
     quay.io/repository-slug: lucarval-rhtap/c-sharp-azure-gh
